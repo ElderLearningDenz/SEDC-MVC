@@ -1,0 +1,14 @@
+﻿@model List<Order>
+
+<h2>ORDERS:</h2>
+<ul>
+@for (int i = 0; i < @Model.Count; i++)
+{
+    <li>@Model.ElementAt(i).Name</li>
+    <ul style="list-style-type:square;">
+        <li>Address: @Model.ElementAt(i).Address</li>
+        <li>Phone Number: @Model.ElementAt(i).PhoneNumber</li>
+        <li>Email: @Model.ElementAt(i).Email</li>
+    </ul>
+}
+</ul>
