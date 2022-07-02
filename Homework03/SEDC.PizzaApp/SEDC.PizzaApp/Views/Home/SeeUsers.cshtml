@@ -1,0 +1,11 @@
+﻿@model List<User>
+
+<h2>User List:</h2>
+
+<ol>
+    @for (int i = 0; i < Model.Count; i++)
+        {
+            <li>@Model.ElementAt(i).FirstName @Model.ElementAt(i).LastName</li>
+        }
+</ol>
+

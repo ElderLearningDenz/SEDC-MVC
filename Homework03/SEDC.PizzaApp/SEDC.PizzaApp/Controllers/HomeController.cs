@@ -20,6 +20,12 @@ namespace SEDC.PizzaApp.Controllers
             return View();
         }
 
+        public IActionResult SeeUsers()
+        {
+            List<User> userDb = StaticDb.Users;
+            return View(userDb);
+        }
+
 
         public IActionResult Privacy()
         {

@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{6A7BDE96-4B23-40A0-A467-37367E20F784}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SEDC.PizzaApp PreferredExecutionTarget="/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SEDC.PizzaApp/StaticDb.cs">
+    <Files>
+      <File FileName="SEDC.PizzaApp/Controllers/HomeController.cs" Line="25" Column="48" />
+      <File FileName="SEDC.PizzaApp/Controllers/PizzaController.cs" Line="1" Column="1" />
+      <File FileName="SEDC.PizzaApp/Views/Home/SeeUsers.cshtml" Line="9" Column="10" />
+      <File FileName="SEDC.PizzaApp/Controllers/OrderController.cs" Line="1" Column="1" />
+      <File FileName="SEDC.PizzaApp/Views/Pizza/Details.cshtml" Line="1" Column="1" />
+      <File FileName="SEDC.PizzaApp/Views/Shared/Partials/_PizzaPartialView.cshtml" Line="14" Column="49" />
+      <File FileName="SEDC.PizzaApp/StaticDb.cs" Line="1" Column="1" />
+      <File FileName="SEDC.PizzaApp/Models/ViewModels/PizzaViewModel.cs" Line="1" Column="1" />
+      <File FileName="SEDC.PizzaApp/Models/Mappers/PizzaMapper.cs" Line="29" Column="58" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SEDC.PizzaApp" expanded="True">
+            <Node name="SEDC.PizzaApp" expanded="True">
+              <Node name="StaticDb.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

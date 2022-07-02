@@ -7,14 +7,15 @@ namespace SEDC.PizzaApp.Models.Mappers
     {
         public static PizzaViewModel ToPizzaViewModel(Pizza pizzaDb)
         {
-            if (pizzaDb.HasExtras == true)
+            if (pizzaDb.HasExtras)
             {
-               return new PizzaViewModel()
+                return new PizzaViewModel()
                 {
                     Id = pizzaDb.Id,
                     Name = pizzaDb.Name,
                     Price = pizzaDb.Price + 20,
                     PizzaSize = pizzaDb.PizzaSize,
+                    IsOnPromotion = pizzaDb.IsOnPromotion
                 };
             }
             else
@@ -25,6 +26,7 @@ namespace SEDC.PizzaApp.Models.Mappers
                     Name = pizzaDb.Name,
                     Price = pizzaDb.Price,
                     PizzaSize = pizzaDb.PizzaSize,
+                    IsOnPromotion = pizzaDb.IsOnPromotion,
                 };
             }
         }

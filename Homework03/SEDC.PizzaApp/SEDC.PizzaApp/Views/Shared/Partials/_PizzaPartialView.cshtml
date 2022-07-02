@@ -4,6 +4,13 @@
 <p>@Model.Name</p>
 <p>@Model.Price</p>
 <p>@Model.PizzaSize</p>
-@if(@Model.IsOnPromotion == true){
-    <h4>This product is on promotion.</h4>
+@{
+    if (Model.IsOnPromotion)
+    {
+        <p>This product is on promotion.</p>
+    }
+    else
+    {
+        <p>This product is not on promotion yet.</p>
+    }
 }

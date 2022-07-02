@@ -8,73 +8,73 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SEDC.PizzaApp
 build_property.RootNamespace = SEDC.PizzaApp
-build_property.ProjectDir = C:\Users\dejan\OneDrive\Desktop\MVC\CLASS 03 VIEW\SEDC.PizzaApp\SEDC.PizzaApp\
+build_property.ProjectDir = /Users/dejankostenarov/Documents/SEDC-MVC/Homework03/SEDC.PizzaApp/SEDC.PizzaApp/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\dejan\OneDrive\Desktop\MVC\CLASS 03 VIEW\SEDC.PizzaApp\SEDC.PizzaApp
+build_property.MSBuildProjectDirectory = /Users/dejankostenarov/Documents/SEDC-MVC/Homework03/SEDC.PizzaApp/SEDC.PizzaApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/dejan/OneDrive/Desktop/MVC/CLASS 03 VIEW/SEDC.PizzaApp/SEDC.PizzaApp/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[/Users/dejankostenarov/Documents/SEDC-MVC/Homework03/SEDC.PizzaApp/SEDC.PizzaApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dejan/OneDrive/Desktop/MVC/CLASS 03 VIEW/SEDC.PizzaApp/SEDC.PizzaApp/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[/Users/dejankostenarov/Documents/SEDC-MVC/Homework03/SEDC.PizzaApp/SEDC.PizzaApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dejan/OneDrive/Desktop/MVC/CLASS 03 VIEW/SEDC.PizzaApp/SEDC.PizzaApp/Views/Order/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcRGV0YWlscy5jc2h0bWw=
+[/Users/dejankostenarov/Documents/SEDC-MVC/Homework03/SEDC.PizzaApp/SEDC.PizzaApp/Views/Home/SeeUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9TZWVVc2Vycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dejan/OneDrive/Desktop/MVC/CLASS 03 VIEW/SEDC.PizzaApp/SEDC.PizzaApp/Views/Order/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcSW5kZXguY3NodG1s
+[/Users/dejankostenarov/Documents/SEDC-MVC/Homework03/SEDC.PizzaApp/SEDC.PizzaApp/Views/Order/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXIvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dejan/OneDrive/Desktop/MVC/CLASS 03 VIEW/SEDC.PizzaApp/SEDC.PizzaApp/Views/Pizza/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGl6emFcRGV0YWlscy5jc2h0bWw=
+[/Users/dejankostenarov/Documents/SEDC-MVC/Homework03/SEDC.PizzaApp/SEDC.PizzaApp/Views/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXIvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dejan/OneDrive/Desktop/MVC/CLASS 03 VIEW/SEDC.PizzaApp/SEDC.PizzaApp/Views/Pizza/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGl6emFcRXJyb3IuY3NodG1s
+[/Users/dejankostenarov/Documents/SEDC-MVC/Homework03/SEDC.PizzaApp/SEDC.PizzaApp/Views/Pizza/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGl6emEvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dejan/OneDrive/Desktop/MVC/CLASS 03 VIEW/SEDC.PizzaApp/SEDC.PizzaApp/Views/Pizza/GetPizzas.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGl6emFcR2V0UGl6emFzLmNzaHRtbA==
+[/Users/dejankostenarov/Documents/SEDC-MVC/Homework03/SEDC.PizzaApp/SEDC.PizzaApp/Views/Pizza/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGl6emEvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dejan/OneDrive/Desktop/MVC/CLASS 03 VIEW/SEDC.PizzaApp/SEDC.PizzaApp/Views/Pizza/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGl6emFcSW5kZXguY3NodG1s
+[/Users/dejankostenarov/Documents/SEDC-MVC/Homework03/SEDC.PizzaApp/SEDC.PizzaApp/Views/Pizza/GetPizzas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGl6emEvR2V0UGl6emFzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dejan/OneDrive/Desktop/MVC/CLASS 03 VIEW/SEDC.PizzaApp/SEDC.PizzaApp/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+[/Users/dejankostenarov/Documents/SEDC-MVC/Homework03/SEDC.PizzaApp/SEDC.PizzaApp/Views/Pizza/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGl6emEvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dejan/OneDrive/Desktop/MVC/CLASS 03 VIEW/SEDC.PizzaApp/SEDC.PizzaApp/Views/Shared/Partials/_PizzaPartialView.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxzXF9QaXp6YVBhcnRpYWxWaWV3LmNzaHRtbA==
+[/Users/dejankostenarov/Documents/SEDC-MVC/Homework03/SEDC.PizzaApp/SEDC.PizzaApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dejan/OneDrive/Desktop/MVC/CLASS 03 VIEW/SEDC.PizzaApp/SEDC.PizzaApp/Views/Shared/_Layout2.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQyLmNzaHRtbA==
+[/Users/dejankostenarov/Documents/SEDC-MVC/Homework03/SEDC.PizzaApp/SEDC.PizzaApp/Views/Shared/Partials/_PizzaPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1BhcnRpYWxzL19QaXp6YVBhcnRpYWxWaWV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dejan/OneDrive/Desktop/MVC/CLASS 03 VIEW/SEDC.PizzaApp/SEDC.PizzaApp/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[/Users/dejankostenarov/Documents/SEDC-MVC/Homework03/SEDC.PizzaApp/SEDC.PizzaApp/Views/Shared/_Layout2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dejan/OneDrive/Desktop/MVC/CLASS 03 VIEW/SEDC.PizzaApp/SEDC.PizzaApp/Views/User/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+[/Users/dejankostenarov/Documents/SEDC-MVC/Homework03/SEDC.PizzaApp/SEDC.PizzaApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dejan/OneDrive/Desktop/MVC/CLASS 03 VIEW/SEDC.PizzaApp/SEDC.PizzaApp/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/Users/dejankostenarov/Documents/SEDC-MVC/Homework03/SEDC.PizzaApp/SEDC.PizzaApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dejan/OneDrive/Desktop/MVC/CLASS 03 VIEW/SEDC.PizzaApp/SEDC.PizzaApp/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[/Users/dejankostenarov/Documents/SEDC-MVC/Homework03/SEDC.PizzaApp/SEDC.PizzaApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/dejan/OneDrive/Desktop/MVC/CLASS 03 VIEW/SEDC.PizzaApp/SEDC.PizzaApp/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-q745xab8wp
+[/Users/dejankostenarov/Documents/SEDC-MVC/Homework03/SEDC.PizzaApp/SEDC.PizzaApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-0cr4i2wz9i
