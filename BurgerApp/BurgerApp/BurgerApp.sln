@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BurgerAppDemo", "BurgerAppDemo\BurgerAppDemo.csproj", "{93C3251E-251C-4E31-8A33-E7A6858F9CFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93C3251E-251C-4E31-8A33-E7A6858F9CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93C3251E-251C-4E31-8A33-E7A6858F9CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93C3251E-251C-4E31-8A33-E7A6858F9CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93C3251E-251C-4E31-8A33-E7A6858F9CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AC8634A-C234-494B-9FBF-7CD4AEDFFDB2}
+	EndGlobalSection
+EndGlobal
